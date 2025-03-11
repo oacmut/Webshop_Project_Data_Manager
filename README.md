@@ -1,4 +1,4 @@
-# Data Manager role - Fressnapf Scraper Project :dog: :cat:
+# Data Manager role - Fressnapf Scraper Project
 
 Welcome to the **Fressnapf Scraper Project**, a Python-based web scraping solution designed to extract product data from the [Fressnapf Hungary website](https://www.fressnapf.hu/). This project was developed with the help of **Grok 3**, an AI tool by xAI, and serves as part of my university coursework for the **Systems Development and IT Project Management** subject. As the **Data Manager** in my team, I’ve overseen the data collection, cleaning, and preparation process to ensure compatibility with the DNN Hotcakes webshop module.
 
