@@ -152,12 +152,6 @@ for idx, subcategory_url in enumerate(all_subcategory_links):
     main_category_slug = subcategory_to_main_category[idx]  
 
     product_type = subcategory_slug.replace(main_category_slug, "").capitalize()
-    if product_type == "Eledelek":  
-        product_type = "Eledelek"
-    elif product_type == "Fekhelyek":
-        product_type = "Fekhelyek"
-    elif product_type == "Jatekok":
-        product_type = "Jatekok"
 
     for i in range(0, len(product_links), 2):
         link = product_links[i]
